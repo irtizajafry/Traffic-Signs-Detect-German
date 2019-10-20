@@ -127,3 +127,4 @@ There are a lot of improvements can be done in the future for traffic signs dete
 
 ## Licenses
 German traffic signs detection specific code is distributed under MIT License.
+# Traffic-Signs-Detect-German
